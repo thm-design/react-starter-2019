@@ -1,6 +1,6 @@
 # react starter 2019
 
-![image](https://github.com/CodeDoorHQ/codedoor-advisor-serverless/blob/master/docs/images/splash.png)
+![image](https://github.com/thm-design/react-starter-2019/blob/master/docs/images/splash.png)
 
 This project uses **NPM** for dependency management.
 
